@@ -9,22 +9,22 @@
             },
             {
                 "type": "notebook",
-                "path": "why-julia/why-julia.jl",
+                "path": "why-julia.jl",
                 "title": "Why Julia"
             },
             {
                 "type": "notebook",
-                "path": "what-is-tidier-jl/what-is-tidier-jl.jl",
+                "path": "what-is-tidier-jl.jl",
                 "title": "What is Tidier"
             },
             {
                 "type": "notebook",
-                "path": "data-pipelines/data-pipelines.jl",
+                "path": "data-pipelines.jl",
                 "title": "Data Pipelines"
             },
             {
                 "type": "notebook",
-                "path": "tidyverse-and-its-descendants/tidyverse-and-its-descendants.jl",
+                "path": "tidyverse-and-its-descendants.jl",
                 "title": "Tidyverse and its Descendants"
             }
         ]
